@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kuldeep-37
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on microsoft and samsung
 - 📫 How to reach me @KULDEEP D {LINKED IN}
 <!---
 kuldeep-37/kuldeep-37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
